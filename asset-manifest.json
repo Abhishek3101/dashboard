@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.2c02dc67.css",
-    "main.js": "/dashboard/static/js/main.4ee9451a.js",
+    "main.css": "/dashboard/static/css/main.aaa40e13.css",
+    "main.js": "/dashboard/static/js/main.497d5049.js",
     "static/media/pearmock.png": "/dashboard/static/media/pearmock.1cd77fe3620921db9580.png",
     "index.html": "/dashboard/index.html",
-    "main.2c02dc67.css.map": "/dashboard/static/css/main.2c02dc67.css.map",
-    "main.4ee9451a.js.map": "/dashboard/static/js/main.4ee9451a.js.map"
+    "main.aaa40e13.css.map": "/dashboard/static/css/main.aaa40e13.css.map",
+    "main.497d5049.js.map": "/dashboard/static/js/main.497d5049.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c02dc67.css",
-    "static/js/main.4ee9451a.js"
+    "static/css/main.aaa40e13.css",
+    "static/js/main.497d5049.js"
   ]
 }
