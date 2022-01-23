@@ -1,0 +1,28 @@
+::-webkit-scrollbar{
+  width: 0.50vw;
+}
+::-webkit-scrollbar-track{
+  width: 0.50vw;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #EDF2F7;
+  border-radius: 8vw;
+}
+::-webkit-scrollbar-thumb:hover{
+  background-color: #4A5568;
+  border-radius: 8vw;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
